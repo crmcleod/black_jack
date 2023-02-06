@@ -1,0 +1,51 @@
+.App {
+  text-align: center;
+  background-image: url("./noisy-texture-100x100-o28.999999999999996-d27-c-007300-t0.png");
+  height: 100vh;
+  width: 95vw;
+  position: absolute;
+  border-radius: 100%;
+  transform: perspective(3000px) rotateX(50deg);
+  box-shadow: 0rem 3rem 2rem 1rem black;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+}
+html {
+  background-color: rgba(205, 157, 0, 0.111);
+}
+.cards {
+  box-shadow: 0 0.3rem 0.2rem 0.1rem rgba(0, 0, 0, 0.325);
+  width: 15rem;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+.deal-button {
+  width: 8rem;
+  height: 8rem;
+  border-radius: 100%;
+  box-shadow: 0 0.3rem 0.2rem 0.1rem rgba(0, 0, 0, 0.601);
+  background-color: rgb(151, 40, 40);
+  /* position: fixed; */
+  bottom: 5%;
+  color: white;
+  border: dotted 5px black;
+  font-weight: 700;
+  cursor: pointer; 
+  margin: 0rem 1rem;
+}
+
+#shuffle {
+  position: fixed;
+  width: 100vw;
+}
