@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/blackjack/static/css/main.884d9dda.css",
-    "main.js": "/blackjack/static/js/main.a41caf99.js",
-    "static/js/787.a539f6db.chunk.js": "/blackjack/static/js/787.a539f6db.chunk.js",
-    "static/media/shuffle.gif": "/blackjack/static/media/shuffle.a11a2287e39acab862c8.gif",
-    "static/media/back.png": "/blackjack/static/media/back.0e489c1c6c1c0953bf1c.png",
-    "index.html": "/blackjack/index.html",
-    "main.884d9dda.css.map": "/blackjack/static/css/main.884d9dda.css.map",
-    "main.a41caf99.js.map": "/blackjack/static/js/main.a41caf99.js.map",
-    "787.a539f6db.chunk.js.map": "/blackjack/static/js/787.a539f6db.chunk.js.map"
+    "main.css": "/black_jack/static/css/main.884d9dda.css",
+    "main.js": "/black_jack/static/js/main.4d857365.js",
+    "static/js/787.a539f6db.chunk.js": "/black_jack/static/js/787.a539f6db.chunk.js",
+    "static/media/shuffle.gif": "/black_jack/static/media/shuffle.a11a2287e39acab862c8.gif",
+    "static/media/back.png": "/black_jack/static/media/back.0e489c1c6c1c0953bf1c.png",
+    "index.html": "/black_jack/index.html",
+    "main.884d9dda.css.map": "/black_jack/static/css/main.884d9dda.css.map",
+    "main.4d857365.js.map": "/black_jack/static/js/main.4d857365.js.map",
+    "787.a539f6db.chunk.js.map": "/black_jack/static/js/787.a539f6db.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.884d9dda.css",
-    "static/js/main.a41caf99.js"
+    "static/js/main.4d857365.js"
   ]
 }
